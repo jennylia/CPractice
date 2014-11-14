@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08CB98D7-4E2B-406C-8782-59F286908A60</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Day15</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D7DC0249DFB8016BA52E05CAD9F3CE3EF10C4E50</key>
+		<string>https://github.com/jennylia/CPractice.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Day15/Day15.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D7DC0249DFB8016BA52E05CAD9F3CE3EF10C4E50</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jennylia/CPractice.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D7DC0249DFB8016BA52E05CAD9F3CE3EF10C4E50</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D7DC0249DFB8016BA52E05CAD9F3CE3EF10C4E50</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C</string>
+		</dict>
+	</array>
+</dict>
+</plist>
